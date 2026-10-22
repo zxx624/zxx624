@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./assets/senren-full-op.gif" width="900" alt="千恋＊万花完整官方 OP — 无声循环动画" />
+  <img src="./assets/senren-pixel.gif" width="900" alt="千恋＊万花完整 OP — 黑白像素循环动画" />
 </p>
 
 <p align="center">
