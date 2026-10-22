@@ -4,8 +4,6 @@
   <img src="./assets/senren-silhouette.gif" width="640" alt="千恋＊万花官方 OP — 彩色人物剪影动画" />
 </p>
 
-<p align="center"><sub>千恋＊万花 · 官方 OP 剪影片段 · 无声循环<br />画面版权归 YUZUSOFT 等原权利方所有 · <a href="https://www.hikarifield.co.jp/senren/movie.html">官方完整 OP</a></sub></p>
-
 ---
 
 ### Contributions
