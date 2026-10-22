@@ -1,5 +1,3 @@
-# Hi, I'm zxx624
-
 <p align="center">
   <img src="./assets/senren-full-op.gif" width="900" alt="千恋＊万花完整官方 OP — 无声循环动画" />
 </p>
